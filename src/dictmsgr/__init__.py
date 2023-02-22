@@ -100,5 +100,5 @@ class TestContext(TestCase):
 if __name__ == "__main__":
     main()
 
-__version__ = "0.1"
+__version__ = "0.2"
 __all__ = ["Context",]

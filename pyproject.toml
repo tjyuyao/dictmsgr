@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dictmsgr"
-description = "print pytorch tensors and numpy arrays concisely."
-keywords = ["pytorch", "print"]
+description = "Single-thread dict-based messenger inspired by the Robot Operation System."
+keywords = ["dict", "messenger"]
 classifiers = ["Development Status :: 5 - Production/Stable",
  "Environment :: Console",
  "Intended Audience :: Science/Research",
